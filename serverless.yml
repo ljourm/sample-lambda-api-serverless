@@ -12,3 +12,6 @@ functions:
       - httpApi:
           method: "*"
           path: "*"
+
+plugins:
+  - serverless-offline
